@@ -1,0 +1,11 @@
+.grid{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.grid2{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.outer-grid{
+    max-width: 800px;
+}
